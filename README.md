@@ -6,7 +6,7 @@ The Game of Life is also simply known as Life. It is a [cellular automaton](http
 Every cell on the grid will be interacting with its' eight neigbours. Each cell will either be dead or alive depending on the status of the neighbours. A live cell is indicated by the letter "O" and a dead cell is indicated by a dot. The four main rules are stated below:
 
 1) If a live cell has fewer than 2 neighbors, it dies (underpopulation).
-2) If a live cell has 2 or 3 neigbours, it stays alive for the nexr generation (preservation). 
+2) If a live cell has 2 or 3 neigbours, it stays alive for the next generation (preservation). 
 3) If a live cell has more than 3 neighbors, it dies (overpopulation).
 4) If a dead cell has exactly 3 neighbors, it becomes alive (reproduction).
 
